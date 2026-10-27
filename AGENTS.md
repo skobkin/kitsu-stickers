@@ -11,14 +11,15 @@ mascot *Kitsu*.
 - License: CC BY-SA 4.0 — see [`LICENSE.md`](LICENSE.md).
 - Sticker catalog: the table in [`README.md`](README.md).
 
-Every sticker is stored as WebP, flat in the repository root — there is no
-`assets/` or `images/` directory. Each sticker ships at two sizes: a 512px
-render and a full-resolution master.
+Every sticker is stored as WebP in `stickers/`. Each sticker ships at two sizes:
+a 512px render and a full-resolution master.
 
 ## File naming
 
+All artwork lives in `stickers/`, so a sticker's path is:
+
 ```
-<NN>_<slug>_v<N>[_<variant>]_<size>.webp
+stickers/<NN>_<slug>_v<N>[_<variant>]_<size>.webp
 ```
 
 | Part | Meaning |
@@ -32,10 +33,10 @@ render and a full-resolution master.
 Examples:
 
 ```
-00_pack_icon_v1_heart_100px.webp     pack icon, 100px
-00_pack_icon_v1_heart_full.webp       pack icon, master
-01_celebration_v1_512px.webp          sticker 01, variant v1, 512px render
-01_celebration_v1_full.webp           sticker 01, variant v1, master
+stickers/00_pack_icon_v1_heart_100px.webp     pack icon, 100px
+stickers/00_pack_icon_v1_heart_full.webp       pack icon, master
+stickers/01_celebration_v1_512px.webp          sticker 01, variant v1, 512px render
+stickers/01_celebration_v1_full.webp           sticker 01, variant v1, master
 ```
 
 ## Rules
@@ -49,6 +50,8 @@ change:
 - one row per sticker number, ordered ascending;
 - the preview cell shows every 512px render of that sticker, side by side;
 - the row's name stays in sync with the file's `<slug>`;
+- preview paths are relative to the repository root, so they carry the
+  `stickers/` prefix;
 - no row may point at a file that does not exist, and no 512px render may be
   left out of the catalog.
 
@@ -58,6 +61,10 @@ Every file sharing a number — all variants, both the 512px and the master
 render — is staged and committed together. Never split one sticker across
 commits, and never mix two sticker numbers into one commit.
 
+A bulk relocation that moves existing files without changing their contents —
+moving the whole set into `stickers/`, say — is a single commit, not one per
+sticker.
+
 ### 3. Commit message format
 
 ```
@@ -66,7 +73,8 @@ commits, and never mix two sticker numbers into one commit.
 <body>
 ```
 
-- `type` — `feat` for a new sticker, `fix` for a corrected render, `chore` for
+- `type` — `feat` for a new sticker, `fix` for a corrected render, `refactor` for
+  a move or restructure that leaves the artwork itself untouched, `chore` for
   repo housekeeping, `docs` for documentation-only changes.
 - `scope` — `stickers` for artwork; omit it for repo-wide changes.
 - `subject` — imperative, lowercase, at most 72 characters, no trailing
@@ -83,10 +91,10 @@ Adds 2 variants:
 
 ### 4. Follow the naming convention
 
-New sticker files must match the grammar above. `<size>` is only `512px` or
-`full` (`100px` for the pack icon). Numbers are zero-padded to two digits and
-are never reused or renumbered — a number identifies a slot in the Telegram
-pack for good.
+New sticker files go into `stickers/` and must match the grammar above. `<size>`
+is only `512px` or `full` (`100px` for the pack icon). Numbers are zero-padded
+to two digits and are never reused or renumbered — a number identifies a slot
+in the Telegram pack for good.
 
 ### 5. Don't re-encode the artwork
 
