@@ -61,6 +61,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 48 | Slap Shit Together And Deploy | <img src="stickers/48_slap_shit_together_and_deploy_v1_512px.webp" width="120" alt="Slap Shit Together And Deploy"> |
 | 49 | Fuck Him | <img src="stickers/49_fuck_him_v1_512px.webp" width="120" alt="Fuck Him"> |
 | 50 | Salut | <img src="stickers/50_salut_v1_512px.webp" width="120" alt="Salut v1"> <img src="stickers/50_salut_v2_512px.webp" width="120" alt="Salut v2"> |
+| 51 | Double Thumbs | <img src="stickers/51_double_thumbs_v1_512px.webp" width="120" alt="Double Thumbs"> |
 
 ## License
 
