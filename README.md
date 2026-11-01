@@ -65,6 +65,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 52 | Turning Table | <img src="stickers/52_turning_table_v1_512px.webp" width="120" alt="Turning Table"> |
 | 53 | Not Bad | <img src="stickers/53_not_bad_v1_512px.webp" width="120" alt="Not Bad"> |
 | 54 | Enshittification | <img src="stickers/54_enshittification_v1_512px.webp" width="120" alt="Enshittification v1"> <img src="stickers/54_enshittification_v2_512px.webp" width="120" alt="Enshittification v2"> |
+| 55 | Elder Wisdom | <img src="stickers/55_elder_wisdom_v1_512px.webp" width="120" alt="Elder Wisdom"> |
 
 ## License
 
