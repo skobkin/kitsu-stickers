@@ -62,6 +62,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 49 | Fuck Him | <img src="stickers/49_fuck_him_v1_512px.webp" width="120" alt="Fuck Him"> |
 | 50 | Salut | <img src="stickers/50_salut_v1_512px.webp" width="120" alt="Salut v1"> <img src="stickers/50_salut_v2_512px.webp" width="120" alt="Salut v2"> |
 | 51 | Double Thumbs | <img src="stickers/51_double_thumbs_v1_512px.webp" width="120" alt="Double Thumbs"> |
+| 52 | Turning Table | <img src="stickers/52_turning_table_v1_512px.webp" width="120" alt="Turning Table"> |
 
 ## License
 
