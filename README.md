@@ -60,6 +60,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 47 | Bet You're Wanking | <img src="stickers/47_bet_youre_wanking_v1_512px.webp" width="120" alt="Bet You're Wanking v1"> <img src="stickers/47_bet_youre_wanking_v2_512px.webp" width="120" alt="Bet You're Wanking v2"> |
 | 48 | Slap Shit Together And Deploy | <img src="stickers/48_slap_shit_together_and_deploy_v1_512px.webp" width="120" alt="Slap Shit Together And Deploy"> |
 | 49 | Fuck Him | <img src="stickers/49_fuck_him_v1_512px.webp" width="120" alt="Fuck Him"> |
+| 50 | Salut | <img src="stickers/50_salut_v1_512px.webp" width="120" alt="Salut v1"> <img src="stickers/50_salut_v2_512px.webp" width="120" alt="Salut v2"> |
 
 ## License
 
