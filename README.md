@@ -63,6 +63,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 50 | Salut | <img src="stickers/50_salut_v1_512px.webp" width="120" alt="Salut v1"> <img src="stickers/50_salut_v2_512px.webp" width="120" alt="Salut v2"> |
 | 51 | Double Thumbs | <img src="stickers/51_double_thumbs_v1_512px.webp" width="120" alt="Double Thumbs"> |
 | 52 | Turning Table | <img src="stickers/52_turning_table_v1_512px.webp" width="120" alt="Turning Table"> |
+| 53 | Not Bad | <img src="stickers/53_not_bad_v1_512px.webp" width="120" alt="Not Bad"> |
 
 ## License
 
