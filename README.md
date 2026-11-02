@@ -67,6 +67,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 54 | Enshittification | <img src="stickers/54_enshittification_v1_512px.webp" width="120" alt="Enshittification v1"> <img src="stickers/54_enshittification_v2_512px.webp" width="120" alt="Enshittification v2"> |
 | 55 | Elder Wisdom | <img src="stickers/55_elder_wisdom_v1_512px.webp" width="120" alt="Elder Wisdom"> |
 | 56 | Megusta | <img src="stickers/56_megusta_v1_512px.webp" width="120" alt="Megusta"> |
+| 57 | Supa Hot Crowd Reaction | <img src="stickers/57_supa_hot_crowd_reaction_v1_512px.webp" width="120" alt="Supa Hot Crowd Reaction"> |
 
 ## License
 
