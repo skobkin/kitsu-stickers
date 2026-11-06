@@ -68,6 +68,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 55 | Elder Wisdom | <img src="stickers/55_elder_wisdom_v1_512px.webp" width="120" alt="Elder Wisdom"> |
 | 56 | Megusta | <img src="stickers/56_megusta_v1_512px.webp" width="120" alt="Megusta"> |
 | 57 | Supa Hot Crowd Reaction | <img src="stickers/57_supa_hot_crowd_reaction_v1_512px.webp" width="120" alt="Supa Hot Crowd Reaction"> |
+| 58 | It Is Time | <img src="stickers/58_it_is_time_v1_512px.webp" width="120" alt="It Is Time"> |
 
 ## License
 
