@@ -70,6 +70,7 @@ This repository holds every sticker in the pack as WebP, in two sizes: a **512px
 | 57 | Supa Hot Crowd Reaction | <img src="stickers/57_supa_hot_crowd_reaction_v1_512px.webp" width="120" alt="Supa Hot Crowd Reaction"> |
 | 58 | It Is Time | <img src="stickers/58_it_is_time_v1_512px.webp" width="120" alt="It Is Time"> |
 | 59 | Perfection | <img src="stickers/59_perfection_v1_512px.webp" width="120" alt="Perfection"> |
+| 60 | Feels Good Man | <img src="stickers/60_feels_good_man_v1_512px.webp" width="120" alt="Feels Good Man"> |
 
 ## License
 
